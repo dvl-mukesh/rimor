@@ -17,3 +17,13 @@ To install Rimor, you'll need to have Go installed on your system. Then, simply 
 ```bash
 go get -u github.com/dvl-mukesh/rimor
 ```
+
+## Usage
+
+```bash
+./rimor -copy sourcefile destinationfile
+./rimor -move sourcefile destinationfile
+./rimor -list directory
+./rimor -search directory searchquery
+./rimor -delete filename
+```

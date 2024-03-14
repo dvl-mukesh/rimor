@@ -8,7 +8,6 @@ Rimor is a command-line tool written in Go for exploring the file system. The na
 - **View**: View the contents of files directly in the terminal.
 - **Search**: Search for files based on name or content.
 - **Manipulate**: Perform basic file system operations like copy, move, delete, etc.
-- **Customizable**: Extendable through plugins to add more functionalities.
 
 ## Installation
 
